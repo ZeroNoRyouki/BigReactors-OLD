@@ -1,0 +1,259 @@
+# Big Reactors Language File - 简体中文
+# @author Erogenous Beef, ZeroNoRyouki, ABookFreak
+# Translate By PeakXing
+
+itemGroup.bigreactors=极限反应堆
+
+# Blocks
+
+tile.blockRadiothermalGen.0=放射性同位素热电机
+tile.blockBRDevice.0.name=蓝晶石再加工机
+
+# Fluids
+fluid.tile.water=水
+fluid.tile.lava=岩浆
+fluid.tile.yellorium=液态黄铀
+fluid.tile.cyanite=液态蓝晶石
+fluid.tile.blutonium=液态蓝钚
+fluid.steam=蒸汽
+
+# Placeable Fluids
+tile.fluid.yellorium.still.name=液态黄铀
+tile.fluid.cyanite.still.name=液态蓝晶
+tile.fluid.blutonium.still.name=液态蓝钚
+
+# Items - ingots
+item.bigreactors:ingotMetals.yellorium.name=黄铀锭
+item.bigreactors:ingotMetals.cyanite.name=蓝晶石锭
+item.bigreactors:ingotMetals.blutonium.name=蓝钚锭
+item.bigreactors:ingotMetals.graphite.name=石墨棒
+item.bigreactors:ingotMetals.ludicrite.name=镥锭
+item.bigreactors:ingotMetals.steel.name=钢锭
+
+# Items - dusts
+item.bigreactors:dustMetals.yellorium.name=黄铀石粉
+item.bigreactors:dustMetals.cyanite.name=蓝晶石粉
+item.bigreactors:dustMetals.blutonium.name=蓝钚石粉
+item.bigreactors:dustMetals.graphite.name=石墨粉
+item.bigreactors:dustMetals.ludicrite.name=镥粉
+item.bigreactors:dustMetals.steel.name=钢粉
+
+# Items - reactor casing cores
+item.bigreactors:reactorCasingCores.legacy.name=反应堆外壳核心 (旧版)
+item.bigreactors:reactorCasingCores.basic.name=反应堆外壳核心 (基本)
+item.bigreactors:turbineHousingCores.legacy.name=涡轮机外壳核心 (旧版)
+item.bigreactors:turbineHousingCores.basic.name=涡轮机外壳核心 (基本)
+
+# Items - minerals
+item.bigreactors:minerals.anglesite.name=硫酸铅矿晶体 (PbSO4)
+item.bigreactors:minerals.benitoite.name=蓝锥矿晶体 (BaTiSi3O9)
+
+# Blocks - metal blocks / ores
+tile.bigreactors:blockMetals.yellorium.name=黄铀块
+tile.bigreactors:blockMetals.cyanite.name=蓝晶石块
+tile.bigreactors:blockMetals.blutonium.name=蓝钚石块
+tile.bigreactors:blockMetals.graphite.name=石墨块
+tile.bigreactors:blockMetals.ludicrite.name=镥块
+tile.bigreactors:blockMetals.steel.name=钢块
+
+# Blocks - ores
+tile.bigreactors:brOre.yellorite.name=黄铀矿
+tile.bigreactors:brOre.anglesite.name=硫酸铅矿
+tile.bigreactors:brOre.benitoite.name=蓝锥矿
+
+# Blocks - reactor parts (legacy)
+tile.bigreactors:reactorGlass.legacy.name=反应堆玻璃(旧版)
+tile.bigreactors:reactorCasing.legacy.name=反应堆外壳 (旧版)
+tile.bigreactors:reactorController.legacy.name=反应堆控制器 (旧版)
+tile.bigreactors:reactorPowerTapRF.legacy.name=反应堆RF能源接口 (旧版)
+tile.bigreactors:reactorPowerTapTesla.legacy.name=反应堆特斯拉能源接口 (旧版)
+tile.bigreactors:reactorAccessPort.legacy.name=反应堆接入端口 (旧版)
+tile.bigreactors:reactorCoolantPort.legacy.name=反应堆冷却端口 (旧版)
+tile.bigreactors:reactorControlRod.legacy.name=反应堆控制棒 (旧版)
+tile.bigreactors:reactorComputerPort.legacy.name=反应堆计算机端口 (旧版)
+tile.bigreactors:reactorRedstonePort.legacy.name=反应堆红石端口 (旧版)
+tile.bigreactors:reactorFuelRod.legacy.name=反应堆燃料棒 (旧版)
+tile.bigreactors:reactorRedNetPort.legacy.name=反应堆 RedNet 端口 (旧版)
+tile.bigreactors:reactorCreativeCoolantPort.legacy.name=创造模式反应堆冷却端口 (旧版)
+
+# Blocks - reactor parts (基本)
+tile.bigreactors:reactorGlass.basic.name=反应堆玻璃(基本)
+tile.bigreactors:reactorCasing.basic.name=反应堆外壳 (基本)
+tile.bigreactors:reactorController.basic.name=反应堆控制器 (基本)
+tile.bigreactors:reactorPowerTapRF.basic.name=反应堆RF能源接口 (基本)
+tile.bigreactors:reactorPowerTapTesla.basic.name=反应堆特斯拉能源接口 (基本)
+tile.bigreactors:reactorAccessPort.basic.name=反应堆接入端口 (基本)
+tile.bigreactors:reactorCoolantPort.basic.name=反应堆冷却端口 (基本)
+tile.bigreactors:reactorControlRod.basic.name=反应堆控制棒 (基本)
+tile.bigreactors:reactorComputerPort.basic.name=反应堆计算机端口 (基本)
+tile.bigreactors:reactorRedstonePort.basic.name=反应堆红石端口 (基本)
+tile.bigreactors:reactorFuelRod.basic.name=反应堆燃料棒 (基本)
+tile.bigreactors:reactorRedNetPort.basic.name=反应堆 RedNet 端口 (基本)
+tile.bigreactors:reactorCreativeCoolantPort.basic.name=创造模式反应堆冷却端口 (基本)
+
+# Blocks - turbine parts (旧版)
+tile.bigreactors:turbineGlass.legacy.name=涡轮机玻璃 (旧版)
+tile.bigreactors:turbineHousing.legacy.name=涡轮机外壳(旧版)
+tile.bigreactors:turbineController.legacy.name=涡轮机控制器 (旧版)
+tile.bigreactors:turbinePowerTapRF.legacy.name=涡轮机RF能源接口 (旧版)
+tile.bigreactors:turbinePowerTapTesla.legacy.name=涡轮机特斯拉能源接口 (旧版)
+tile.bigreactors:turbineComputerPort.legacy.name=涡轮机计算机端口 (旧版)
+tile.bigreactors:turbineFluidPort.legacy.name=涡轮机液体端口 (旧版)
+tile.bigreactors:turbineBearing.legacy.name=涡轮机转子轴承 (旧版)
+tile.bigreactors:turbineCreativeSteamGenerator.legacy.name=创造模式涡轮机蒸汽发电机 (旧版)
+tile.bigreactors:turbineRotorShaft.legacy.name=涡轮机转轴 (旧版)
+tile.bigreactors:turbineRotorBlade.legacy.name=涡轮机叶片 (旧版)
+
+# Blocks - turbine parts (basic)
+tile.bigreactors:turbineGlass.basic.name=涡轮机玻璃 (基本)
+tile.bigreactors:turbineHousing.basic.name=涡轮机外壳 (基本)
+tile.bigreactors:turbineController.basic.name=涡轮机控制器 (基本)
+tile.bigreactors:turbinePowerTapRF.basic.name=涡轮机RF能源接口 (基本)
+tile.bigreactors:turbinePowerTapTesla.basic.name=涡轮机特斯拉能源接口 (基本)
+tile.bigreactors:turbineComputerPort.basic.name=涡轮机计算机端口 (基本)
+tile.bigreactors:turbineFluidPort.basic.name=涡轮机液体端口 (基本)
+tile.bigreactors:turbineBearing.basic.name=涡轮机转子轴承 (基本)
+tile.bigreactors:turbineCreativeSteamGenerator.basic.name=创造模式涡轮机蒸汽发电机 (基本)
+tile.bigreactors:turbineRotorShaft.basic.name=涡轮机转轴 (基本)
+tile.bigreactors:turbineRotorBlade.basic.name=涡轮机叶片 (基本)
+
+# Error messages
+multiblock.validation.block_not_connected=块未连接到一个反应器中。这可能是由于延迟，或者一个错误。如果问题仍然存在，尝试打破并重新放置块
+# Multiblock validation errors (reactors)
+multiblock.validation.reactor.invalid_fuelrod_position=%1$d, %2$d, %3$d - 燃料棒只能放置在反应堆内部
+multiblock.validation.reactor.invalid_fuelrod_column=Fuel rod at %1$d, %2$d, %3$d 必须垂直一列达到反应堆的高度，顶部有一个控制棒
+multiblock.validation.reactor.invalid_part_for_interior=%1$d, %2$d, %3$d - 这个反应堆部分不得放置在反应堆的内部
+multiblock.validation.reactor.invalid_fluid_for_interior=%1$d, %2$d, %3$d - %4$s 的液体，反应堆内是无效的
+multiblock.validation.reactor.invalid_block_for_interior=%1$d, %2$d, %3$d - %4$s 自反应堆内是无效的
+multiblock.validation.reactor.invalid_block_for_exterior=%1$d, %2$d, %3$d - %4$s 在反应堆外是无效的
+multiblock.validation.reactor.null_block_found=%1$d, %2$d, %3$d - 在反应堆内部发现无效的方块
+multiblock.validation.reactor.too_few_rods=没有足够的控制棒。反应堆至少需要1
+multiblock.validation.reactor.too_few_controllers=没有足够的控制器。反应堆至少需要1
+multiblock.validation.reactor.invalid_control_rods_position=%1$d, %2$d, %3$d - 控制棒只能放置在顶面
+multiblock.validation.reactor.invalid_control_rods_column=%1$d, %2$d, %3$d - 控制棒只能放置在顶面，燃料棒的上方
+multiblock.validation.reactor.invalid_control_side=控制棒只能放置在反应堆的一侧
+multiblock.validation.reactor.invalid_glass_position=%1$d, %2$d, %3$d - 反应堆玻璃仅能在外面使用，而不是作为一个反应堆中的框架或内部的一部分
+multiblock.validation.reactor.invalid_frame_block=%1$d, %2$d, %3$d - 只有外壳可作为反应器框架的一部分
+multiblock.validation.reactor.invalid_block_in_fuel_assembly=%1$d, %2$d, %3$d - 这里只能使用燃料棒
+multiblock.validation.reactor.invalid_base_for_fuel_assembly=%1$d, %2$d, %3$d - 反应堆外壳仅能用在这里
+multiblock.validation.reactor.invalid_fuel_rods=所有燃料棒都必须属于控制杆后面的燃料组件
+multiblock.validation.reactor.redstoneport_invalid_on_frame=%1$d, %2$d, %3$d - 反应堆红石端口只能放在一个反应堆的外部侧面,不是作为框架的一部分
+multiblock.validation.reactor.redstoneport_invalid_on_top=%1$d, %2$d, %3$d - 反应堆红石端口只能放在一个反应堆的外部侧面,而不是顶部
+multiblock.validation.reactor.redstoneport_invalid_on_bottom=%1$d, %2$d, %3$d - 反应堆红石端口只能放在一个反应堆的外部侧面,而不是底部
+multiblock.validation.reactor.redstoneport_invalid_on_interior=%1$d, %2$d, %3$d - 反应堆红石端口不能放在反应堆内部
+multiblock.validation.reactor.mixed_power_systems=RF能源接口和特斯拉能源接口不能使用同一个反应堆
+multiblock.validation.reactor.mixed_tiers=在反应器中的所有块必须是同一层
+
+# Multiblock validation errors (turbines)
+multiblock.validation.turbine.incomplete=涡轮机还没有完成
+multiblock.validation.turbine.invalid_block_for_interior=%1$d, %2$d, %3$d 对涡轮内部无效。只有转子部件，金属块和空的空间是允许的
+multiblock.validation.turbine.invalid_block_for_exterior=%1$d, %2$d, %3$d - %4$s 不适用于涡轮机的外部
+multiblock.validation.turbine.invalid_rotor_count=涡轮机至少需要1个转子轴承
+#第一次机翻，嗯就是机翻，还干嘛，干不下去了罢工 ￣へ￣ 后来者再接再厉。请把你的ID署名在上面我ID的前方。
+multiblock.validation.turbine.block_must_be_rotor=%1$s - This block must contain a rotor. The rotor must begin at the bearing and run the entire length of the turbine
+multiblock.validation.turbine.blades_too_far=%1$s - Rotor blades must be placed closer to the rotor bearing than all other parts inside a turbine
+multiblock.validation.turbine.metal_too_near=%1$s - Metal blocks must by placed further from the rotor bearing than all rotor blades
+multiblock.validation.turbine.shaft_too_short=The rotor shaft must extend the entire length of the turbine interior
+multiblock.validation.turbine.found_loose_rotor_blocks=Found %1$d rotor blocks that are not attached to the main rotor. All rotor blocks must be in a column extending the entire length of the turbine, starting from the bearing
+multiblock.validation.turbine.found_loose_rotor_blades=Found %1$d rotor blades that are not attached to the rotor. All rotor blades must extend continuously from the rotor's shaft
+multiblock.validation.turbine.invalid_metals_shape=Found %1$d metal blocks which were not in a ring around the rotor. All metal blocks must be in rings, or partial rings, around the rotor
+multiblock.validation.turbine.glass_invalid_on_frame=%1$d, %2$d, %3$d - Glass cannot be used as part of a turbine's frame
+multiblock.validation.turbine.glass_invalid_on_interior=%1$d, %2$d, %3$d - Glass can only be used as part of a turbine's exterior
+multiblock.validation.turbine.invalid_part_for_interior=%1$d, %2$d, %3$d - This part is not valid for the interior of a turbine
+multiblock.validation.turbine.invalid_part_for_frame=%1$d, %2$d, %3$d - Only turbine housing may be used as part of the turbine's frame
+multiblock.validation.turbine.invalid_rotor_position=Rotor parts may only be placed in the turbine interior
+multiblock.validation.turbine.invalid_rotor_end=Rotor must end against a turbine housing block
+multiblock.validation.turbine.mixed_power_systems=Redstone Flux and Testa power taps cannot be used in the same turbine
+multiblock.validation.turbine.mixed_tiers=All blocks in the turbine must be of the same tier
+
+# Configs
+config.bigreactors.compatibility=Compatibility
+config.bigreactors.general=General
+config.bigreactors.reactor=Reactor
+config.bigreactors.turbine=Turbine
+config.bigreactors.recipes=Recipes
+config.bigreactors.worldgen=World Gen
+
+config.bigreactors.compatibility.autoAddUranium=Add uranium as a reactor reactant
+config.bigreactors.compatibility.enableMetallurgyFantasyMetalsInTurbines=Use Metallurgy fantasy metals in turbines
+
+config.bigreactors.general.enableComedy=Comedy
+config.bigreactors.general.fuelUsageMultiplier=Fuel usage multiplier
+config.bigreactors.general.powerProductionMultiplier=Power production multiplier
+config.bigreactors.general.registerCreativeMultiblockParts=Register creative parts
+config.bigreactors.general.ticksPerRedstoneUpdate=Ticks per redstone update
+
+config.bigreactors.reactor.maxReactorHeight=Max height (Y)
+config.bigreactors.reactor.maxReactorSize=Max size (X/Z)
+config.bigreactors.reactor.reactorPowerProductionMultiplier=Power production multiplier
+
+config.bigreactors.turbine.maxTurbineHeight=Max height (Y)
+config.bigreactors.turbine.maxTurbineSize=Max size (X/Z)
+config.bigreactors.turbine.turbineAeroDragMultiplier=Aero drag multiplier
+config.bigreactors.turbine.turbineCoilDragMultiplier=Coil drag multiplier
+config.bigreactors.turbine.turbineFluidPerBladeMultiplier=Fluid per blade multiplier
+config.bigreactors.turbine.turbineMassDragMultiplier=Mass drag multiplier
+config.bigreactors.turbine.turbinePowerProductionMultiplier=Power production multiplier
+
+config.bigreactors.recipes.enableCyaniteFromYelloriumRecipe=Craft cyanite from yellorium
+config.bigreactors.recipes.enableReactorPowerTapRecipe=Allow Reactor Power Taps
+config.bigreactors.recipes.registerCharcoalForSmelting=Smelt charcoal into graphite
+config.bigreactors.recipes.registerCoalForSmelting=Smelt coal into graphite
+config.bigreactors.recipes.registerGraphiteCharcoalCraftingRecipes=Craft graphite from charcoal and gravel
+config.bigreactors.recipes.registerGraphiteCoalCraftingRecipes=Craft graphite from coal and gravel
+config.bigreactors.recipes.registerYelloriteSmeltToUranium=Smelt yellorite ore into uranium ingots
+config.bigreactors.recipes.registerYelloriumAsUranium=Use uranium/plutonium instead of yellorium/blutonium
+config.bigreactors.recipes.requireObsidianGlass=Use hardened or reinforced glass
+config.bigreactors.recipes.requireSteelInsteadOfIron=Use steel instead of iron ingots
+config.bigreactors.recipes.registerCreativeMultiblockParts=Register creative parts
+
+config.bigreactors.worldgen.enableWorldGen=Enable world generation
+config.bigreactors.worldgen.enableWorldRegeneration=Re-generate existing chunks
+config.bigreactors.worldgen.userWorldGenVersion=User-set world generation version
+config.bigreactors.worldgen.dimensionWhitelist=Allowed dimensions (IDs) for yellorite generation
+config.bigreactors.worldgen.yelloriteOreEnableWorldGen=Generate yellorite ore
+config.bigreactors.worldgen.yelloriteOreMaxClustersPerChunk=Max number of cluster of yellorite ore per chunks
+config.bigreactors.worldgen.yelloriteOrePerCluster=Maximum number of yellorite ore per cluster
+config.bigreactors.worldgen.yelloriteOreMaxY=Yellorite ore maximum height
+config.bigreactors.worldgen.anglesiteOreEnableWorldGen=Generate anglesite ore
+config.bigreactors.worldgen.anglesiteOreMaxClustersPerChunk=Max number of cluster of anglesite ore per chunks
+config.bigreactors.worldgen.anglesiteOrePerCluster=Maximum number of anglesite ore per cluster
+config.bigreactors.worldgen.benitoiteOreEnableWorldGen=Generate benitoite ore
+config.bigreactors.worldgen.benitoiteOreMaxClustersPerChunk=Max number of cluster of benitoite ore per chunks
+config.bigreactors.worldgen.benitoiteOrePerCluster=Maximum number of benitoite ore per cluster
+
+# Debug-tools messages
+debug.bigreactors.lastvalidationerror=Last validation error: %1$s
+debug.bigreactors.teclass=Tile Entity class: %1$s
+debug.bigreactors.notattached=Part not attached to a controller
+debug.bigreactors.assembled=Assembled: %1$s
+debug.bigreactors.attached=Attached Blocks: %1$s
+debug.bigreactors.active=Active: %1$s
+debug.bigreactors.storedenergy=Stored Energy: %1$.4f %2$s
+debug.bigreactors.reactor.casingheat=Casing Heat: %1$.4f
+debug.bigreactors.reactor.fuelheat=Fuel Heat: %1$.4f
+debug.bigreactors.reactor.reactanttanksIntro=Reactant Tanks:
+debug.bigreactors.reactor.activelycooled=Actively Cooled: %1$s
+debug.bigreactors.reactor.coolanttanksIntro:=Coolant Tanks:
+debug.bigreactors.reactantcontainer.capacity=Capacity: %1$d mB
+debug.bigreactors.reactantcontainer.tank=[%1$s] %2$s: %3$d
+debug.bigreactors.fluidhelper.capacity=Capacity (per): %1$d mB
+debug.bigreactors.fluidhelper.tank=[%1$s] %2$s: %3$s, %4$d mB
+debug.bigreactors.turbine.rotorenergy=Rotor Energy: %1$.4f
+debug.bigreactors.turbine.rotorspeed=Rotor Speed: %1$.4f RPM
+debug.bigreactors.turbine.inductorengaged=Inductor Engaged: %1$s
+debug.bigreactors.turbine.ventstatus=Vent Status: %1$s
+debug.bigreactors.turbine.maxintakerate=Max Intake Rate: %1$d
+debug.bigreactors.turbine.coilsize=Coil Size: %1$d
+debug.bigreactors.turbine.rotormass=Rotor Mass: %1$d
+debug.bigreactors.turbine.bladearea=Blade Surface Area: %1$d
+debug.bigreactors.turbine.rotorblades=Rotor Blades: %1$d
+debug.bigreactors.turbine.rotorshafts=Rotor Shafts: %1$d
+debug.bigreactors.turbine.rotordragcoeff=Rotor Drag Coefficient: %1$.2f
+debug.bigreactors.turbine.bladedrag=Blade Drag: %1$.2f
+debug.bigreactors.turbine.frictdrag=Frict Drag: %1$.2f
+debug.bigreactors.turbine.fluidtanksInfo=Fluid Tanks:
+debug.bigreactors.turbine.inputempty=- Inlet : empty
+debug.bigreactors.turbine.input=- Inlet : %1$s %2$d mB
+debug.bigreactors.turbine.outputempty=- Outlet : empty
+debug.bigreactors.turbine.output=- Outlet : %1$s %2$d mB
