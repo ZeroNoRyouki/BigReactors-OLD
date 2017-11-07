@@ -1,5 +1,3 @@
-# Extreme Reactors Language File - Simplified Chinese
-# @author
 
 itemGroup.bigreactors=Extreme Reactors
 
@@ -15,6 +13,7 @@ fluid.tile.yellorium=液态黄铀
 fluid.tile.cyanite=液态蓝晶
 fluid.tile.blutonium=液态蓝钚
 fluid.steam=蒸汽
+fluid.yellorium=液态黄铀
 
 # Placeable Fluids
 tile.fluid.yellorium.still.name=液态黄铀
@@ -225,12 +224,12 @@ config.bigreactors.worldgen.benitoiteOreMaxClustersPerChunk=每个区块生成�
 config.bigreactors.worldgen.benitoiteOrePerCluster=每个蓝锥矿脉的最大个数
 
 # Debug-tools messages
-debug.bigreactors.lastvalidationerror=Last validation error: %1$s
+debug.bigreactors.lastvalidationerror=最后的结构验证错误：%1$s
 debug.bigreactors.teclass=Tile Entity class: %1$s
 debug.bigreactors.notattached=部件没有连接到控制器
-debug.bigreactors.assembled=Assembled: %1$s
+debug.bigreactors.assembled=已安装：%1$s
 debug.bigreactors.attached=相连的方块：%1$s
-debug.bigreactors.active=Active: %1$s
+debug.bigreactors.active=激活的：%1$s
 debug.bigreactors.storedenergy=储存的能量：%1$.4f %2$s
 debug.bigreactors.reactor.casingheat=外壳热量：%1$.4f
 debug.bigreactors.reactor.fuelheat=燃料热量：%1$.4f
