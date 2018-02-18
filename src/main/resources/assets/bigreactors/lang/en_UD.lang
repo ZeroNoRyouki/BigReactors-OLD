@@ -1,0 +1,241 @@
+
+itemGroup.bigreactors=sɹoʇɔɐǝᴚ ǝɯǝɹʇxƎ
+
+
+tile.blockRadiothermalGen.0=ɹoʇɐɹǝuǝ⅁ ꞁɐɯɹǝɥʇoᴉpɐᴚ
+tile.blockBRDevice.0.name=ɹosssǝɔoɹdǝᴚ ǝʇᴉuɐʎƆ
+
+fluid.tile.water=ɹǝʇɐM
+fluid.tile.lava=ɐʌɐꞀ
+fluid.tile.yellorium=ɯnᴉɹoꞁꞁǝ⅄ pᴉnꞁℲ
+fluid.tile.cyanite=ǝʇᴉuɐʎƆ pᴉnꞁℲ
+fluid.tile.blutonium=ɯnᴉuoʇnꞁᗺ pᴉnꞁℲ
+fluid.steam=ɯɐǝʇS
+fluid.yellorium=ɯnᴉɹoꞁꞁǝ⅄ pᴉnꞁℲ
+
+tile.fluid.yellorium.still.name=ɯnᴉɹoꞁꞁǝ⅄ pᴉnꞁℲ
+tile.fluid.cyanite.still.name=ǝʇᴉuɐʎƆ pᴉnꞁℲ
+tile.fluid.blutonium.still.name=ɯnᴉuoʇnꞁᗺ pᴉnꞁℲ
+
+item.bigreactors:ingotMetals.yellorium.name=ʇoᵷuI ɯnᴉɹoꞁꞁǝ⅄
+item.bigreactors:ingotMetals.cyanite.name=ʇoᵷuI ǝʇᴉuɐʎƆ
+item.bigreactors:ingotMetals.blutonium.name=ʇoᵷuI ɯnᴉuoʇnꞁᗺ
+item.bigreactors:ingotMetals.graphite.name=ɹɐᗺ ǝʇᴉɥdɐɹ⅁
+item.bigreactors:ingotMetals.ludicrite.name=ʇoᵷuI ǝʇᴉɹɔᴉpnꞀ
+item.bigreactors:ingotMetals.steel.name=ʇoᵷuI ꞁǝǝʇS
+
+item.bigreactors:dustMetals.yellorium.name=ʇsnᗡ ɯnᴉɹoꞁꞁǝ⅄
+item.bigreactors:dustMetals.cyanite.name=ʇsnᗡ ǝʇᴉuɐʎƆ
+item.bigreactors:dustMetals.blutonium.name=ʇsnᗡ ɯnᴉuoʇnꞁᗺ
+item.bigreactors:dustMetals.graphite.name=ʇsnᗡ ǝʇᴉɥdɐɹ⅁
+item.bigreactors:dustMetals.ludicrite.name=ʇsnᗡ ǝʇᴉɹɔᴉpnꞀ
+item.bigreactors:dustMetals.steel.name=ʇsnᗡ ꞁǝǝʇS
+
+item.bigreactors:reactorCasingCores.legacy.name=(ʎɔɐᵷǝꞀ) ǝɹoƆ ᵷuᴉsɐƆ ɹoʇɔɐǝᴚ
+item.bigreactors:reactorCasingCores.basic.name=(ɔᴉsɐᗺ) ǝɹoƆ ᵷuᴉsɐƆ ɹoʇɔɐǝᴚ
+item.bigreactors:turbineHousingCores.legacy.name=(ʎɔɐᵷǝꞀ) ǝɹoƆ ᵷuᴉsnoH ǝuᴉqɹn⟘
+item.bigreactors:turbineHousingCores.basic.name=(ɔᴉsɐᗺ) ǝɹoƆ ᵷuᴉsnoH ǝuᴉqɹn⟘
+
+item.bigreactors:minerals.anglesite.name=(ᔭOSqԀ) ǝʇᴉsǝꞁᵷuⱯ
+item.bigreactors:minerals.benitoite.name=(6OƐᴉSᴉ⟘ɐᗺ) ǝʇᴉoʇᴉuǝᗺ
+
+item.bigreactors:wrench.name=ɥɔuǝɹM ǝɯǝɹʇxƎ
+
+tile.bigreactors:blockMetals.yellorium.name=ʞɔoꞁᗺ ɯnᴉɹoꞁꞁǝ⅄
+tile.bigreactors:blockMetals.cyanite.name=ʞɔoꞁᗺ ǝʇᴉuɐʎƆ
+tile.bigreactors:blockMetals.blutonium.name=ʞɔoꞁᗺ ɯnᴉuoʇnꞁᗺ
+tile.bigreactors:blockMetals.graphite.name=ʞɔoꞁᗺ ǝʇᴉɥdɐɹ⅁
+tile.bigreactors:blockMetals.ludicrite.name=ʞɔoꞁᗺ ǝʇᴉɹɔᴉpnꞀ
+tile.bigreactors:blockMetals.steel.name=ʞɔoꞁᗺ ꞁǝǝʇS
+
+tile.bigreactors:brOre.yellorite.name=ǝɹO ǝʇᴉɹoꞁꞁǝ⅄
+tile.bigreactors:brOre.anglesite.name=ǝɹO ǝʇᴉsǝꞁᵷuⱯ
+tile.bigreactors:brOre.benitoite.name=ǝɹO ǝʇᴉoʇᴉuǝᗺ
+
+tile.bigreactors:reactorGlass.legacy.name=(ʎɔɐᵷǝꞀ) ssɐꞁ⅁ ɹoʇɔɐǝᴚ
+tile.bigreactors:reactorCasing.legacy.name=(ʎɔɐᵷǝꞀ) ᵷuᴉsɐƆ ɹoʇɔɐǝᴚ
+tile.bigreactors:reactorController.legacy.name=(ʎɔɐᵷǝꞀ) ɹǝꞁꞁoɹʇuoƆ ɹoʇɔɐǝᴚ
+tile.bigreactors:reactorPowerTapRF.legacy.name=(ʎɔɐᵷǝꞀ) dɐ⟘ ɹǝʍoԀ xnꞁℲ ǝuoʇspǝᴚ ɹoʇɔɐǝᴚ
+tile.bigreactors:reactorPowerTapTesla.legacy.name=(ʎɔɐᵷǝꞀ) dɐ⟘ ɹǝʍoԀ ɐꞁsǝ⟘ ɹoʇɔɐǝᴚ
+tile.bigreactors:reactorAccessPort.legacy.name=(ʎɔɐᵷǝꞀ) ʇɹoԀ ssǝɔɔⱯ ɹoʇɔɐǝᴚ
+tile.bigreactors:reactorCoolantPort.legacy.name=(ʎɔɐᵷǝꞀ) ʇɹoԀ ʇuɐꞁooƆ ɹoʇɔɐǝᴚ
+tile.bigreactors:reactorControlRod.legacy.name=(ʎɔɐᵷǝꞀ) poᴚ ꞁoɹʇuoƆ ɹoʇɔɐǝᴚ
+tile.bigreactors:reactorComputerPort.legacy.name=(ʎɔɐᵷǝꞀ) ʇɹoԀ ɹǝʇndɯoƆ ɹoʇɔɐǝᴚ
+tile.bigreactors:reactorRedstonePort.legacy.name=(ʎɔɐᵷǝꞀ) ʇɹoԀ ǝuoʇspǝᴚ ɹoʇɔɐǝᴚ
+tile.bigreactors:reactorFuelRod.legacy.name=(ʎɔɐᵷǝꞀ) poᴚ ꞁǝnℲ ɹoʇɔɐǝᴚ
+tile.bigreactors:reactorRedNetPort.legacy.name=(ʎɔɐᵷǝꞀ) ʇɹoԀ ʇǝNpǝᴚ ɹoʇɔɐǝᴚ
+tile.bigreactors:reactorCreativeCoolantPort.legacy.name=(ʎɔɐᵷǝꞀ) ʇɹoԀ ʇuɐꞁooƆ ǝʌᴉʇɐǝɹƆ ɹoʇɔɐǝᴚ
+
+tile.bigreactors:reactorGlass.basic.name=(ɔᴉsɐᗺ) ssɐꞁ⅁ ɹoʇɔɐǝᴚ
+tile.bigreactors:reactorCasing.basic.name=(ɔᴉsɐᗺ) ᵷuᴉsɐƆ ɹoʇɔɐǝᴚ
+tile.bigreactors:reactorController.basic.name=(ɔᴉsɐᗺ) ɹǝꞁꞁoɹʇuoƆ ɹoʇɔɐǝᴚ
+tile.bigreactors:reactorPowerTapRF.basic.name=(ɔᴉsɐᗺ) dɐ⟘ ɹǝʍoԀ xnꞁℲ ǝuoʇspǝᴚ ɹoʇɔɐǝᴚ
+tile.bigreactors:reactorPowerTapTesla.basic.name=(ɔᴉsɐᗺ) dɐ⟘ ɹǝʍoԀ ɐꞁsǝ⟘ ɹoʇɔɐǝᴚ
+tile.bigreactors:reactorAccessPort.basic.name=(ɔᴉsɐᗺ) ʇɹoԀ ssǝɔɔⱯ ɹoʇɔɐǝᴚ
+tile.bigreactors:reactorCoolantPort.basic.name=(ɔᴉsɐᗺ) ʇɹoԀ ʇuɐꞁooƆ ɹoʇɔɐǝᴚ
+tile.bigreactors:reactorControlRod.basic.name=(ɔᴉsɐᗺ) poᴚ ꞁoɹʇuoƆ ɹoʇɔɐǝᴚ
+tile.bigreactors:reactorComputerPort.basic.name=(ɔᴉsɐᗺ) ʇɹoԀ ɹǝʇndɯoƆ ɹoʇɔɐǝᴚ
+tile.bigreactors:reactorRedstonePort.basic.name=(ɔᴉsɐᗺ) ʇɹoԀ ǝuoʇspǝᴚ ɹoʇɔɐǝᴚ
+tile.bigreactors:reactorFuelRod.basic.name=(ɔᴉsɐᗺ) poᴚ ꞁǝnℲ ɹoʇɔɐǝᴚ
+tile.bigreactors:reactorRedNetPort.basic.name=(ɔᴉsɐᗺ) ʇɹoԀ ʇǝNpǝᴚ ɹoʇɔɐǝᴚ
+tile.bigreactors:reactorCreativeCoolantPort.basic.name=(ɔᴉsɐᗺ) ʇɹoԀ ʇuɐꞁooƆ ǝʌᴉʇɐǝɹƆ ɹoʇɔɐǝᴚ
+
+tile.bigreactors:turbineGlass.legacy.name=(ʎɔɐᵷǝꞀ) ssɐꞁ⅁ ǝuᴉqɹn⟘
+tile.bigreactors:turbineHousing.legacy.name=(ʎɔɐᵷǝꞀ) ᵷuᴉsnoH ǝuᴉqɹn⟘
+tile.bigreactors:turbineController.legacy.name=(ʎɔɐᵷǝꞀ) ɹǝꞁꞁoɹʇuoƆ ǝuᴉqɹn⟘
+tile.bigreactors:turbinePowerTapRF.legacy.name=(ʎɔɐᵷǝꞀ) dɐ⟘ ɹǝʍoԀ xnꞁℲ ǝuoʇspǝᴚ ǝuᴉqɹn⟘
+tile.bigreactors:turbinePowerTapTesla.legacy.name=(ʎɔɐᵷǝꞀ) dɐ⟘ ɹǝʍoԀ ɐꞁsǝ⟘ ǝuᴉqɹn⟘
+tile.bigreactors:turbineComputerPort.legacy.name=(ʎɔɐᵷǝꞀ) ʇɹoԀ ɹǝʇndɯoƆ ǝuᴉqɹn⟘
+tile.bigreactors:turbineFluidPort.legacy.name=(ʎɔɐᵷǝꞀ) ʇɹoԀ pᴉnꞁℲ ǝuᴉqɹn⟘
+tile.bigreactors:turbineBearing.legacy.name=(ʎɔɐᵷǝꞀ) ᵷuᴉɹɐǝᗺ ɹoʇoᴚ ǝuᴉqɹn⟘
+tile.bigreactors:turbineCreativeSteamGenerator.legacy.name=(ʎɔɐᵷǝꞀ) ɹoʇɐɹǝuǝ⅁ ɯɐǝʇS ǝʌᴉʇɐǝɹƆ ǝuᴉqɹn⟘
+tile.bigreactors:turbineRotorShaft.legacy.name=(ʎɔɐᵷǝꞀ) ʇɟɐɥS ɹoʇoᴚ ǝuᴉqɹn⟘
+tile.bigreactors:turbineRotorBlade.legacy.name=(ʎɔɐᵷǝꞀ) ǝpɐꞁᗺ ɹoʇoᴚ ǝuᴉqɹn⟘
+
+tile.bigreactors:turbineGlass.basic.name=(ɔᴉsɐᗺ) ssɐꞁ⅁ ǝuᴉqɹn⟘
+tile.bigreactors:turbineHousing.basic.name=(ɔᴉsɐᗺ) ᵷuᴉsnoH ǝuᴉqɹn⟘
+tile.bigreactors:turbineController.basic.name=(ɔᴉsɐᗺ) ɹǝꞁꞁoɹʇuoƆ ǝuᴉqɹn⟘
+tile.bigreactors:turbinePowerTapRF.basic.name=(ɔᴉsɐᗺ) dɐ⟘ ɹǝʍoԀ xnꞁℲ ǝuoʇspǝᴚ ǝuᴉqɹn⟘
+tile.bigreactors:turbinePowerTapTesla.basic.name=(ɔᴉsɐᗺ) dɐ⟘ ɹǝʍoԀ ɐꞁsǝ⟘ ǝuᴉqɹn⟘
+tile.bigreactors:turbineComputerPort.basic.name=(ɔᴉsɐᗺ) ʇɹoԀ ɹǝʇndɯoƆ ǝuᴉqɹn⟘
+tile.bigreactors:turbineFluidPort.basic.name=(ɔᴉsɐᗺ) ʇɹoԀ pᴉnꞁℲ ǝuᴉqɹn⟘
+tile.bigreactors:turbineBearing.basic.name=(ɔᴉsɐᗺ) ᵷuᴉɹɐǝᗺ ɹoʇoᴚ ǝuᴉqɹn⟘
+tile.bigreactors:turbineCreativeSteamGenerator.basic.name=(ɔᴉsɐᗺ) ɹoʇɐɹǝuǝ⅁ ɯɐǝʇS ǝʌᴉʇɐǝɹƆ ǝuᴉqɹn⟘
+tile.bigreactors:turbineRotorShaft.basic.name=(ɔᴉsɐᗺ) ʇɟɐɥS ɹoʇoᴚ ǝuᴉqɹn⟘
+tile.bigreactors:turbineRotorBlade.basic.name=(ɔᴉsɐᗺ) ǝpɐꞁᗺ ɹoʇoᴚ ǝuᴉqɹn⟘
+
+multiblock.validation.block_not_connected=ʞɔoꞁq ǝɥʇ ᵷuᴉɔɐꞁd-ǝɹ puɐ ᵷuᴉʞɐǝɹq ʎɹʇ 'sʇsᴉsɹǝd ɯǝꞁqoɹd ǝɥʇ ɟI ˙ᵷnq ɐ ɹo 'ᵷɐꞁ oʇ ǝnp ǝq pꞁnoɔ sᴉɥ⟘ ˙ɹoʇɔɐǝɹ ɐ oʇ pǝʇɔǝuuoɔ ʇou sᴉ ʞɔoꞁᗺ
+
+multiblock.validation.reactor.invalid_fuelrod_position=ɹoᴉɹǝʇuᴉ ɹoʇɔɐǝɹ ǝɥʇ uᴉ pǝɔɐꞁd ǝq ʎꞁuo ʎɐɯ spoɹ ꞁǝnɟ - %3$d '%2$d '%1$d
+multiblock.validation.reactor.invalid_fuelrod_column=doʇ uo poɹ ꞁoɹʇuoɔ ɐ ɥʇᴉʍ 'ɹoʇɔɐǝɹ ǝɥʇ ɟo ʇɥᵷᴉǝɥ ǝɹᴉʇuǝ ǝɥʇ sǝɥɔɐǝɹ ʇɐɥʇ uɯnꞁoɔ ꞁɐɔᴉʇɹǝʌ ɐ ɟo ʇɹɐd ǝq ʇsnɯ %3$d '%2$d '%1$d ʇɐ poɹ ꞁǝnℲ
+multiblock.validation.reactor.invalid_part_for_interior=ɹoᴉɹǝʇuᴉ s,ɹoʇɔɐǝɹ ǝɥʇ uᴉ pǝɔɐꞁd ǝq ʇou ʎɐɯ ʇɹɐd ɹoʇɔɐǝɹ sᴉɥ⟘ - %3$d '%2$d '%1$d
+multiblock.validation.reactor.invalid_fluid_for_interior=ɹoᴉɹǝʇuᴉ s,ɹoʇɔɐǝɹ ǝɥʇ ɹoɟ pᴉꞁɐʌ ʇou sᴉ %4$s pᴉnꞁɟ ǝɥ⟘ - %3$d '%2$d '%1$d
+multiblock.validation.reactor.invalid_block_for_interior=ɹoᴉɹǝʇuᴉ s,ɹoʇɔɐǝɹ ǝɥʇ ɹoɟ pᴉꞁɐʌ ʇou sᴉ %4$s - %3$d '%2$d '%1$d
+multiblock.validation.reactor.invalid_block_for_exterior=ɹoᴉɹǝʇxǝ s,ɹoʇɔɐǝɹ ǝɥʇ ɹoɟ pᴉꞁɐʌ ʇou sᴉ %4$s - %3$d '%2$d '%1$d
+multiblock.validation.reactor.null_block_found=ɹoᴉɹǝʇuᴉ s,ɹoʇɔɐǝɹ ǝɥʇ ɹoɟ pᴉꞁɐʌ ʇou 'punoɟ ʞɔoꞁq ꞁꞁnN - %3$d '%2$d '%1$d
+multiblock.validation.reactor.too_few_rods=⥝ ʇsɐǝꞁ ʇɐ ǝɹᴉnbǝɹ sɹoʇɔɐǝᴚ ˙spoɹ ꞁoɹʇuoɔ ɥᵷnouǝ ʇoN
+multiblock.validation.reactor.too_few_controllers=⥝ ʇsɐǝꞁ ʇɐ ǝɹᴉnbǝɹ sɹoʇɔɐǝᴚ ˙sɹǝꞁꞁoɹʇuoɔ ɥᵷnouǝ ʇoN
+multiblock.validation.reactor.invalid_control_rods_position=spoɹ ꞁǝnɟ ɟo ǝɔuǝnbǝs ɐ ɟo puǝ ǝɥʇ ʇɐ pǝɔɐꞁd ǝq ʎꞁuo ʎɐɯ spoɹ ꞁoɹʇuoƆ - %3$d '%2$d '%1$d
+multiblock.validation.reactor.invalid_control_rods_column=spoɹ ꞁǝnɟ ɟo ǝɔuǝnbǝs ɐ ɟo puǝ ǝɥʇ ʇɐ pǝɔɐꞁd ǝq ʎꞁuo ʎɐɯ spoɹ ꞁoɹʇuoƆ - %3$d '%2$d '%1$d
+multiblock.validation.reactor.invalid_control_side=ɹoʇɔɐǝɹ ǝɥʇ ɟo ǝpᴉs ǝuo uo pǝɔɐꞁd ǝq ʎꞁuo ʎɐɯ spoɹ ꞁoɹʇuoƆ
+multiblock.validation.reactor.invalid_glass_position=ɹoᴉɹǝʇuᴉ ɹo ǝɯɐɹɟ s,ɹoʇɔɐǝɹ ɐ ɟo ʇɹɐd sɐ ʇou 'sǝɔɐɟ ɹoᴉɹǝʇxǝ ǝɥʇ uo pǝsn ǝq ʎꞁuo ʎɐɯ ssɐꞁᵷ ɹoʇɔɐǝᴚ - %3$d '%2$d '%1$d
+multiblock.validation.reactor.invalid_frame_block=ǝɯɐɹɟ s,ɹoʇɔɐǝɹ ɐ ɟo ʇɹɐd sɐ pǝsn ǝq ʎɐɯ ᵷuᴉsɐɔ ʎꞁuO - %3$d '%2$d '%1$d
+multiblock.validation.reactor.invalid_block_in_fuel_assembly=ǝɹǝɥ pǝsn ǝq uɐɔ spoɹ ꞁǝnɟ ʎꞁuO - %3$d '%2$d '%1$d
+multiblock.validation.reactor.invalid_base_for_fuel_assembly=ǝɹǝɥ pǝsn ǝq uɐɔ sᵷuᴉsɐɔ ɹoʇɔɐǝɹ ʎꞁuO - %3$d '%2$d '%1$d
+multiblock.validation.reactor.invalid_fuel_rods=poɹ ꞁoɹʇuoɔ ɐ puᴉɥǝq ʎꞁqɯǝssɐ ꞁǝnɟ ɐ oʇ ᵷuoꞁǝq ʇsnɯ spoɹ ꞁǝnɟ ꞁꞁⱯ
+multiblock.validation.reactor.redstoneport_invalid_on_frame=ǝɯɐɹɟ ǝɥʇ ɟo ʇɹɐd sɐ ʇou 'sǝɔɐɟ ǝpᴉs ꞁɐuɹǝʇxǝ s,ɹoʇɔɐǝɹ ɐ uo pǝɔɐꞁd ǝq ʎꞁuo ʎɐɯ sʇɹod ǝuoʇspǝᴚ - %3$d '%2$d '%1$d
+multiblock.validation.reactor.redstoneport_invalid_on_top=doʇ ǝɥʇ ʇou 'sǝɔɐɟ ǝpᴉs ꞁɐuɹǝʇxǝ s,ɹoʇɔɐǝɹ ɐ uo pǝɔɐꞁd ǝq ʎꞁuo ʎɐɯ sʇɹod ǝuoʇspǝᴚ - %3$d '%2$d '%1$d
+multiblock.validation.reactor.redstoneport_invalid_on_bottom=ɯoʇʇoq ǝɥʇ ʇou 'sǝɔɐɟ ǝpᴉs ꞁɐuɹǝʇxǝ s,ɹoʇɔɐǝɹ ɐ uo pǝɔɐꞁd ǝq ʎꞁuo ʎɐɯ sʇɹod ǝuoʇspǝᴚ - %3$d '%2$d '%1$d
+multiblock.validation.reactor.redstoneport_invalid_on_interior=ɹoᴉɹǝʇuᴉ s,ɹoʇɔɐǝɹ ɐ uᴉ pǝɔɐꞁd ǝq ʇou ʎɐɯ sʇɹod ǝuoʇspǝᴚ - %3$d '%2$d '%1$d
+multiblock.validation.reactor.mixed_power_systems=ɹoʇɔɐǝɹ ǝɯɐs ǝɥʇ uᴉ pǝsn ǝq ʇouuɐɔ sdɐʇ ɹǝʍod ɐʇsǝ⟘ puɐ xnꞁℲ ǝuoʇspǝᴚ
+multiblock.validation.reactor.mixed_tiers=ɹǝᴉʇ ǝɯɐs ǝɥʇ ɟo ǝq ʇsnɯ ɹoʇɔɐǝɹ ǝɥʇ uᴉ sʞɔoꞁq ꞁꞁⱯ
+
+multiblock.validation.turbine.incomplete=ǝʇǝꞁdɯoɔ ʇǝʎ ʇou sᴉ ǝuᴉqɹnʇ ǝɥ⟘
+multiblock.validation.turbine.invalid_block_for_interior=pǝʍoꞁꞁɐ ǝɹɐ ǝɔɐds ʎʇdɯǝ puɐ sʞɔoꞁq ꞁɐʇǝɯ 'sʇɹɐd ɹoʇoɹ ʎꞁuO ˙ɹoᴉɹǝʇuᴉ ǝuᴉqɹnʇ ɐ ɹoɟ pᴉꞁɐʌuᴉ sᴉ %3$d '%2$d '%1$d
+multiblock.validation.turbine.invalid_block_for_exterior=ɹoᴉɹǝʇxǝ s,ǝuᴉqɹnʇ ɐ ɹoɟ pᴉꞁɐʌ ʇou sᴉ %4$s - %3$d '%2$d '%1$d
+multiblock.validation.turbine.invalid_rotor_count=ᵷuᴉɹɐǝq ɹoʇoɹ ⥝ ʎꞁʇɔɐxǝ ǝɹᴉnbǝɹ sǝuᴉqɹn⟘
+multiblock.validation.turbine.block_must_be_rotor=ǝuᴉqɹnʇ ǝɥʇ ɟo ɥʇᵷuǝꞁ ǝɹᴉʇuǝ ǝɥʇ unɹ puɐ ᵷuᴉɹɐǝq ǝɥʇ ʇɐ uᴉᵷǝq ʇsnɯ ɹoʇoɹ ǝɥ⟘ ˙ɹoʇoɹ ɐ uᴉɐʇuoɔ ʇsnɯ ʞɔoꞁq sᴉɥ⟘ - %1$s
+multiblock.validation.turbine.blades_too_far=ǝuᴉqɹnʇ ɐ ǝpᴉsuᴉ sʇɹɐd ɹǝɥʇo ꞁꞁɐ uɐɥʇ ᵷuᴉɹɐǝq ɹoʇoɹ ǝɥʇ oʇ ɹǝsoꞁɔ pǝɔɐꞁd ǝq ʇsnɯ sǝpɐꞁq ɹoʇoᴚ - %1$s
+multiblock.validation.turbine.metal_too_near=sǝpɐꞁq ɹoʇoɹ ꞁꞁɐ uɐɥʇ ᵷuᴉɹɐǝq ɹoʇoɹ ǝɥʇ ɯoɹɟ ɹǝɥʇɹnɟ pǝɔɐꞁd ʎq ʇsnɯ sʞɔoꞁq ꞁɐʇǝW - %1$s
+multiblock.validation.turbine.shaft_too_short=ɹoᴉɹǝʇuᴉ ǝuᴉqɹnʇ ǝɥʇ ɟo ɥʇᵷuǝꞁ ǝɹᴉʇuǝ ǝɥʇ puǝʇxǝ ʇsnɯ ʇɟɐɥs ɹoʇoɹ ǝɥ⟘
+multiblock.validation.turbine.found_loose_rotor_blocks=ᵷuᴉɹɐǝq ǝɥʇ ɯoɹɟ ᵷuᴉʇɹɐʇs 'ǝuᴉqɹnʇ ǝɥʇ ɟo ɥʇᵷuǝꞁ ǝɹᴉʇuǝ ǝɥʇ ᵷuᴉpuǝʇxǝ uɯnꞁoɔ ɐ uᴉ ǝq ʇsnɯ sʞɔoꞁq ɹoʇoɹ ꞁꞁⱯ ˙ɹoʇoɹ uᴉɐɯ ǝɥʇ oʇ pǝɥɔɐʇʇɐ ʇou ǝɹɐ ʇɐɥʇ sʞɔoꞁq ɹoʇoɹ %1$d punoℲ
+multiblock.validation.turbine.found_loose_rotor_blades=ʇɟɐɥs s,ɹoʇoɹ ǝɥʇ ɯoɹɟ ʎꞁsnonuᴉʇuoɔ puǝʇxǝ ʇsnɯ sǝpɐꞁq ɹoʇoɹ ꞁꞁⱯ ˙ɹoʇoɹ ǝɥʇ oʇ pǝɥɔɐʇʇɐ ʇou ǝɹɐ ʇɐɥʇ sǝpɐꞁq ɹoʇoɹ %1$d punoℲ
+multiblock.validation.turbine.invalid_metals_shape=ɹoʇoɹ ǝɥʇ punoɹɐ 'sᵷuᴉɹ ꞁɐᴉʇɹɐd ɹo 'sᵷuᴉɹ uᴉ ǝq ʇsnɯ sʞɔoꞁq ꞁɐʇǝɯ ꞁꞁⱯ ˙ɹoʇoɹ ǝɥʇ punoɹɐ ᵷuᴉɹ ɐ uᴉ ʇou ǝɹǝʍ ɥɔᴉɥʍ sʞɔoꞁq ꞁɐʇǝɯ %1$d punoℲ
+multiblock.validation.turbine.glass_invalid_on_frame=ǝɯɐɹɟ s,ǝuᴉqɹnʇ ɐ ɟo ʇɹɐd sɐ pǝsn ǝq ʇouuɐɔ ssɐꞁ⅁ - %3$d '%2$d '%1$d
+multiblock.validation.turbine.glass_invalid_on_interior=ɹoᴉɹǝʇxǝ s,ǝuᴉqɹnʇ ɐ ɟo ʇɹɐd sɐ pǝsn ǝq ʎꞁuo uɐɔ ssɐꞁ⅁ - %3$d '%2$d '%1$d
+multiblock.validation.turbine.invalid_part_for_interior=ǝuᴉqɹnʇ ɐ ɟo ɹoᴉɹǝʇuᴉ ǝɥʇ ɹoɟ pᴉꞁɐʌ ʇou sᴉ ʇɹɐd sᴉɥ⟘ - %3$d '%2$d '%1$d
+multiblock.validation.turbine.invalid_part_for_frame=ǝɯɐɹɟ s,ǝuᴉqɹnʇ ǝɥʇ ɟo ʇɹɐd sɐ pǝsn ǝq ʎɐɯ ᵷuᴉsnoɥ ǝuᴉqɹnʇ ʎꞁuO - %3$d '%2$d '%1$d
+multiblock.validation.turbine.invalid_rotor_position=ɹoᴉɹǝʇuᴉ ǝuᴉqɹnʇ ǝɥʇ uᴉ pǝɔɐꞁd ǝq ʎꞁuo ʎɐɯ sʇɹɐd ɹoʇoᴚ
+multiblock.validation.turbine.invalid_rotor_end=ʞɔoꞁq ᵷuᴉsnoɥ ǝuᴉqɹnʇ ɐ ʇsuᴉɐᵷɐ puǝ ʇsnɯ ɹoʇoᴚ
+multiblock.validation.turbine.mixed_power_systems=ǝuᴉqɹnʇ ǝɯɐs ǝɥʇ uᴉ pǝsn ǝq ʇouuɐɔ sdɐʇ ɹǝʍod ɐʇsǝ⟘ puɐ xnꞁℲ ǝuoʇspǝᴚ
+multiblock.validation.turbine.mixed_tiers=ɹǝᴉʇ ǝɯɐs ǝɥʇ ɟo ǝq ʇsnɯ ǝuᴉqɹnʇ ǝɥʇ uᴉ sʞɔoꞁq ꞁꞁⱯ
+
+config.bigreactors.compatibility=ʎʇᴉꞁᴉqᴉʇɐdɯoƆ
+config.bigreactors.general=ꞁɐɹǝuǝ⅁
+config.bigreactors.reactor=ɹoʇɔɐǝᴚ
+config.bigreactors.turbine=ǝuᴉqɹn⟘
+config.bigreactors.recipes=sǝdᴉɔǝᴚ
+config.bigreactors.worldgen=uǝ⅁ pꞁɹoM
+
+config.bigreactors.compatibility.autoAddUranium=ʇuɐʇɔɐǝɹ ɹoʇɔɐǝɹ ɐ sɐ ɯnᴉuɐɹn ppⱯ
+config.bigreactors.compatibility.enableMetallurgyFantasyMetalsInTurbines=sǝuᴉqɹnʇ uᴉ sꞁɐʇǝɯ ʎsɐʇuɐɟ ʎᵷɹnꞁꞁɐʇǝW ǝs∩
+
+config.bigreactors.general.enableComedy=ʎpǝɯoƆ
+config.bigreactors.general.fuelUsageMultiplier=ɹǝᴉꞁdᴉʇꞁnɯ ǝᵷɐsn ꞁǝnℲ
+config.bigreactors.general.powerProductionMultiplier=ɹǝᴉꞁdᴉʇꞁnɯ uoᴉʇɔnpoɹd ɹǝʍoԀ
+config.bigreactors.general.registerCreativeMultiblockParts=sʇɹɐd ǝʌᴉʇɐǝɹɔ ɹǝʇsᴉᵷǝᴚ
+config.bigreactors.general.ticksPerRedstoneUpdate=ǝʇɐpdn ǝuoʇspǝɹ ɹǝd sʞɔᴉ⟘
+
+config.bigreactors.reactor.maxReactorHeight=(⅄) ʇɥᵷᴉǝɥ xɐW
+config.bigreactors.reactor.maxReactorSize=(Z/X) ǝzᴉs xɐW
+config.bigreactors.reactor.reactorPowerProductionMultiplier=ɹǝᴉꞁdᴉʇꞁnɯ uoᴉʇɔnpoɹd ɹǝʍoԀ
+
+config.bigreactors.turbine.maxTurbineHeight=(⅄) ʇɥᵷᴉǝɥ xɐW
+config.bigreactors.turbine.maxTurbineSize=(Z/X) ǝzᴉs xɐW
+config.bigreactors.turbine.turbineAeroDragMultiplier=ɹǝᴉꞁdᴉʇꞁnɯ ᵷɐɹp oɹǝⱯ
+config.bigreactors.turbine.turbineCoilDragMultiplier=ɹǝᴉꞁdᴉʇꞁnɯ ᵷɐɹp ꞁᴉoƆ
+config.bigreactors.turbine.turbineFluidPerBladeMultiplier=ɹǝᴉꞁdᴉʇꞁnɯ ǝpɐꞁq ɹǝd pᴉnꞁℲ
+config.bigreactors.turbine.turbineMassDragMultiplier=ɹǝᴉꞁdᴉʇꞁnɯ ᵷɐɹp ssɐW
+config.bigreactors.turbine.turbinePowerProductionMultiplier=ɹǝᴉꞁdᴉʇꞁnɯ uoᴉʇɔnpoɹd ɹǝʍoԀ
+
+config.bigreactors.recipes.enableCyaniteFromYelloriumRecipe=ɯnᴉɹoꞁꞁǝʎ ɯoɹɟ ǝʇᴉuɐʎɔ ʇɟɐɹƆ
+config.bigreactors.recipes.enableReactorPowerTapRecipe=sdɐ⟘ ɹǝʍoԀ ɹoʇɔɐǝᴚ ʍoꞁꞁⱯ
+config.bigreactors.recipes.registerCharcoalForSmelting=ǝʇᴉɥdɐɹᵷ oʇuᴉ ꞁɐoɔɹɐɥɔ ʇꞁǝɯS
+config.bigreactors.recipes.registerCoalForSmelting=ǝʇᴉɥdɐɹᵷ oʇuᴉ ꞁɐoɔ ʇꞁǝɯS
+config.bigreactors.recipes.registerGraphiteCharcoalCraftingRecipes=ꞁǝʌɐɹᵷ puɐ ꞁɐoɔɹɐɥɔ ɯoɹɟ ǝʇᴉɥdɐɹᵷ ʇɟɐɹƆ
+config.bigreactors.recipes.registerGraphiteCoalCraftingRecipes=ꞁǝʌɐɹᵷ puɐ ꞁɐoɔ ɯoɹɟ ǝʇᴉɥdɐɹᵷ ʇɟɐɹƆ
+config.bigreactors.recipes.registerYelloriteSmeltToUranium=sʇoᵷuᴉ ɯnᴉuɐɹn oʇuᴉ ǝɹo ǝʇᴉɹoꞁꞁǝʎ ʇꞁǝɯS
+config.bigreactors.recipes.registerYelloriumAsUranium=ɯnᴉuoʇnꞁq/ɯnᴉɹoꞁꞁǝʎ ɟo pɐǝʇsuᴉ ɯnᴉuoʇnꞁd/ɯnᴉuɐɹn ǝs∩
+config.bigreactors.recipes.requireObsidianGlass=ssɐꞁᵷ pǝɔɹoɟuᴉǝɹ ɹo pǝuǝpɹɐɥ ǝs∩
+config.bigreactors.recipes.requireSteelInsteadOfIron=[ᗡƎS∩ ⟘ON] sʇoᵷuᴉ uoɹᴉ ɟo pɐǝʇsuᴉ ꞁǝǝʇs ǝs∩
+config.bigreactors.recipes.registerCreativeMultiblockParts=sʇɹɐd ǝʌᴉʇɐǝɹɔ ɹǝʇsᴉᵷǝᴚ
+
+config.bigreactors.worldgen.enableWorldGen=uoᴉʇɐɹǝuǝᵷ pꞁɹoʍ ǝꞁqɐuƎ
+config.bigreactors.worldgen.enableWorldRegeneration=sʞunɥɔ ᵷuᴉʇsᴉxǝ ǝʇɐɹǝuǝᵷ-ǝᴚ
+config.bigreactors.worldgen.userWorldGenVersion=uoᴉsɹǝʌ uoᴉʇɐɹǝuǝᵷ pꞁɹoʍ ʇǝs-ɹǝs∩
+config.bigreactors.worldgen.dimensionWhitelist=uoᴉʇɐɹǝuǝᵷ ǝʇᴉɹoꞁꞁǝʎ ɹoɟ (sᗡI) suoᴉsuǝɯᴉp pǝʍoꞁꞁⱯ
+config.bigreactors.worldgen.yelloriteOreEnableWorldGen=ǝɹo ǝʇᴉɹoꞁꞁǝʎ ǝʇɐɹǝuǝ⅁
+config.bigreactors.worldgen.yelloriteOreMaxClustersPerChunk=sʞunɥɔ ɹǝd ǝɹo ǝʇᴉɹoꞁꞁǝʎ ɟo ɹǝʇsnꞁɔ ɟo ɹǝqɯnu xɐW
+config.bigreactors.worldgen.yelloriteOrePerCluster=ɹǝʇsnꞁɔ ɹǝd ǝɹo ǝʇᴉɹoꞁꞁǝʎ ɟo ɹǝqɯnu ɯnɯᴉxɐW
+config.bigreactors.worldgen.yelloriteOreMaxY=ʇɥᵷᴉǝɥ ɯnɯᴉxɐɯ ǝɹo ǝʇᴉɹoꞁꞁǝ⅄
+config.bigreactors.worldgen.anglesiteOreEnableWorldGen=ǝɹo ǝʇᴉsǝꞁᵷuɐ ǝʇɐɹǝuǝ⅁
+config.bigreactors.worldgen.anglesiteOreMaxClustersPerChunk=sʞunɥɔ ɹǝd ǝɹo ǝʇᴉsǝꞁᵷuɐ ɟo ɹǝʇsnꞁɔ ɟo ɹǝqɯnu xɐW
+config.bigreactors.worldgen.anglesiteOrePerCluster=ɹǝʇsnꞁɔ ɹǝd ǝɹo ǝʇᴉsǝꞁᵷuɐ ɟo ɹǝqɯnu ɯnɯᴉxɐW
+config.bigreactors.worldgen.benitoiteOreEnableWorldGen=ǝɹo ǝʇᴉoʇᴉuǝq ǝʇɐɹǝuǝ⅁
+config.bigreactors.worldgen.benitoiteOreMaxClustersPerChunk=sʞunɥɔ ɹǝd ǝɹo ǝʇᴉoʇᴉuǝq ɟo ɹǝʇsnꞁɔ ɟo ɹǝqɯnu xɐW
+config.bigreactors.worldgen.benitoiteOrePerCluster=ɹǝʇsnꞁɔ ɹǝd ǝɹo ǝʇᴉoʇᴉuǝq ɟo ɹǝqɯnu ɯnɯᴉxɐW
+
+debug.bigreactors.lastvalidationerror=%1$s :ɹoɹɹǝ uoᴉʇɐpᴉꞁɐʌ ʇsɐꞀ
+debug.bigreactors.teclass=%1$s :ssɐꞁɔ ʎʇᴉʇuƎ ǝꞁᴉ⟘
+debug.bigreactors.notattached=ɹǝꞁꞁoɹʇuoɔ ɐ oʇ pǝɥɔɐʇʇɐ ʇou ʇɹɐԀ
+debug.bigreactors.assembled=%1$s :pǝꞁqɯǝssⱯ
+debug.bigreactors.attached=%1$s :sʞɔoꞁᗺ pǝɥɔɐʇʇⱯ
+debug.bigreactors.active=%1$s :ǝʌᴉʇɔⱯ
+debug.bigreactors.storedenergy=%2$s ɟᔭ˙$⥝% :ʎᵷɹǝuƎ pǝɹoʇS
+debug.bigreactors.reactor.casingheat=ɟᔭ˙$⥝% :ʇɐǝH ᵷuᴉsɐƆ
+debug.bigreactors.reactor.fuelheat=ɟᔭ˙$⥝% :ʇɐǝH ꞁǝnℲ
+debug.bigreactors.reactor.reactanttanksIntro=:sʞuɐ⟘ ʇuɐʇɔɐǝᴚ
+debug.bigreactors.reactor.activelycooled=%1$s :pǝꞁooƆ ʎꞁǝʌᴉʇɔⱯ
+debug.bigreactors.reactor.coolanttanksIntro:=:sʞuɐ⟘ ʇuɐꞁooƆ
+debug.bigreactors.reactantcontainer.capacity=ᗺɯ %1$d :ʎʇᴉɔɐdɐƆ
+debug.bigreactors.reactantcontainer.tank=%3$d :%2$s [%1$s]
+debug.bigreactors.fluidhelper.capacity=ᗺɯ %1$d :(ɹǝd) ʎʇᴉɔɐdɐƆ
+debug.bigreactors.fluidhelper.tank=ᗺɯ %4$d '%3$s :%2$s [%1$s]
+debug.bigreactors.turbine.rotorenergy=ɟᔭ˙$⥝% :ʎᵷɹǝuƎ ɹoʇoᴚ
+debug.bigreactors.turbine.rotorspeed=WԀᴚ ɟᔭ˙$⥝% :pǝǝdS ɹoʇoᴚ
+debug.bigreactors.turbine.inductorengaged=%1$s :pǝᵷɐᵷuƎ ɹoʇɔnpuI
+debug.bigreactors.turbine.ventstatus=%1$s :snʇɐʇS ʇuǝᴧ
+debug.bigreactors.turbine.maxintakerate=%1$d :ǝʇɐᴚ ǝʞɐʇuI xɐW
+debug.bigreactors.turbine.coilsize=%1$d :ǝzᴉS ꞁᴉoƆ
+debug.bigreactors.turbine.rotormass=%1$d :ssɐW ɹoʇoᴚ
+debug.bigreactors.turbine.bladearea=%1$d :ɐǝɹⱯ ǝɔɐɟɹnS ǝpɐꞁᗺ
+debug.bigreactors.turbine.rotorblades=%1$d :sǝpɐꞁᗺ ɹoʇoᴚ
+debug.bigreactors.turbine.rotorshafts=%1$d :sʇɟɐɥS ɹoʇoᴚ
+debug.bigreactors.turbine.rotordragcoeff=ɟᘔ˙$⥝% :ʇuǝᴉɔᴉɟɟǝoƆ ᵷɐɹᗡ ɹoʇoᴚ
+debug.bigreactors.turbine.bladedrag=ɟᘔ˙$⥝% :ᵷɐɹᗡ ǝpɐꞁᗺ
+debug.bigreactors.turbine.frictdrag=ɟᘔ˙$⥝% :ᵷɐɹᗡ ʇɔᴉɹℲ
+debug.bigreactors.turbine.fluidtanksInfo=:sʞuɐ⟘ pᴉnꞁℲ
+debug.bigreactors.turbine.inputempty=ʎʇdɯǝ : ʇǝꞁuI -
+debug.bigreactors.turbine.input=ᗺɯ %2$d %1$s : ʇǝꞁuI -
+debug.bigreactors.turbine.outputempty=ʎʇdɯǝ : ʇǝꞁʇnO -
+debug.bigreactors.turbine.output=ᗺɯ %2$d %1$s : ʇǝꞁʇnO -
