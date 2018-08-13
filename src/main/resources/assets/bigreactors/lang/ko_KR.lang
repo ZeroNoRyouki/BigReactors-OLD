@@ -1,0 +1,263 @@
+# Extreme Reactors Language File - Korean
+# @author Erogenous Beef, ZeroNoRyouki, ABookFreak
+# Translated by Mindiest(mindy15963)
+
+itemGroup.bigreactors=빅 리엑터즈
+
+# Blocks
+
+tile.blockRadiothermalGen.0=복사열 발전기
+tile.blockBRDevice.0.name=남정석 재처리기
+
+# Fluids
+fluid.tile.water=물
+fluid.tile.lava=용암
+fluid.tile.yellorium=액체 옐로리움
+fluid.tile.cyanite=액체 남정석
+fluid.tile.blutonium=액체 블루토늄
+fluid.steam=증기
+fluid.yellorium=액체 옐로리움
+
+# Placeable Fluids
+tile.fluid.yellorium.still.name=액체 옐로리움
+tile.fluid.cyanite.still.name=액체 남정석
+tile.fluid.blutonium.still.name=액체 블루토늄
+
+# Items - ingots
+item.bigreactors:ingotMetals.yellorium.name=옐로리움괴
+item.bigreactors:ingotMetals.cyanite.name=남정석괴
+item.bigreactors:ingotMetals.blutonium.name=블루토늄괴
+item.bigreactors:ingotMetals.graphite.name=흑연 막대
+item.bigreactors:ingotMetals.ludicrite.name=루디크라이트괴
+item.bigreactors:ingotMetals.steel.name=강철괴
+
+# Items - dusts
+item.bigreactors:dustMetals.yellorium.name=옐로리움 가루
+item.bigreactors:dustMetals.cyanite.name=남정석 가루
+item.bigreactors:dustMetals.blutonium.name=블루토늄 가루
+item.bigreactors:dustMetals.graphite.name=흑연 가루
+item.bigreactors:dustMetals.ludicrite.name=루디크라이트 가루
+item.bigreactors:dustMetals.steel.name=강철 가루
+
+# Items - reactor casing cores
+item.bigreactors:reactorCasingCores.legacy.name=원자로 케이스 코어(사용 후)
+item.bigreactors:reactorCasingCores.basic.name=원자로 케이스 코어(사용 전)
+item.bigreactors:turbineHousingCores.legacy.name=터빈 하우징 코어(사용 후)
+item.bigreactors:turbineHousingCores.basic.name=터빈 하우징 코어(사용 전)
+
+# Items - minerals
+item.bigreactors:minerals.anglesite.name=앵글사이트 (PbSO4)
+item.bigreactors:minerals.benitoite.name=베니토이트 (BaTiSi3O9)
+
+# Items - miscellanea
+item.bigreactors:wrench.name=익스트림 렌치
+
+# Blocks - metal blocks / ores
+tile.bigreactors:blockMetals.yellorium.name=옐로리움 블록
+tile.bigreactors:blockMetals.cyanite.name=남정석 블록
+tile.bigreactors:blockMetals.blutonium.name=블루토늄 블록
+tile.bigreactors:blockMetals.graphite.name=흑연 블록
+tile.bigreactors:blockMetals.ludicrite.name=루브크라이트 블록
+tile.bigreactors:blockMetals.steel.name=강철 블록
+
+# Blocks - ores
+tile.bigreactors:brOre.yellorite.name=옐로라이트 광석
+tile.bigreactors:brOre.anglesite.name=앵글사이트 광석
+tile.bigreactors:brOre.benitoite.name=베니토이트 광석
+
+# Blocks - reactor parts (legacy)
+tile.bigreactors:reactorGlass.legacy.name=원자로 유리 (사용 후)
+tile.bigreactors:reactorCasing.legacy.name=원자로 케이스 (사용 후)
+tile.bigreactors:reactorController.legacy.name=원자로 제어기 (사용 후)
+tile.bigreactors:reactorPowerTapRF.legacy.name=원자로 RF 전력 탭 (사용 후)
+tile.bigreactors:reactorPowerTapTesla.legacy.name=원자로 테슬라 전력 탭 (사용 후)
+tile.bigreactors:reactorAccessPort.legacy.name=원자로 접속 포트 (사용 후)
+tile.bigreactors:reactorCoolantPort.legacy.name=원자로 냉각수 포트 (사용 후)
+tile.bigreactors:reactorControlRod.legacy.name=원자로 제어봉 (사용 후)
+tile.bigreactors:reactorComputerPort.legacy.name=원자로 컴퓨터 포트 (사용 후)
+tile.bigreactors:reactorRedstonePort.legacy.name=원자로 레드스톤 포트 (사용 후)
+tile.bigreactors:reactorFuelRod.legacy.name=원자로 연료봉 (사용 후)
+tile.bigreactors:reactorRedNetPort.legacy.name=원자로 레드넷 포트 (사용 후)
+tile.bigreactors:reactorCreativeCoolantPort.legacy.name=원자로 크리에이티브 냉각수 포트 (사용 후)
+
+# Blocks - reactor parts (basic)
+tile.bigreactors:reactorGlass.basic.name=원자로 유리 (사용 전)
+tile.bigreactors:reactorCasing.basic.name=원자로 케이스 (사용 전)
+tile.bigreactors:reactorController.basic.name=원자로 제어기 (사용 전)
+tile.bigreactors:reactorPowerTapRF.basic.name=원자로 RF 전력 탭 (사용 전)
+tile.bigreactors:reactorPowerTapTesla.basic.name=원자로 테슬라 전력 탭 (사용 전)
+tile.bigreactors:reactorAccessPort.basic.name=원자로 접속 포트 (사용 전)
+tile.bigreactors:reactorCoolantPort.basic.name=원자로 냉각수 포트 (사용 전)
+tile.bigreactors:reactorControlRod.basic.name=원자로 제어봉 (사용 전)
+tile.bigreactors:reactorComputerPort.basic.name=원자로 컴퓨터 포트 (사용 전)
+tile.bigreactors:reactorRedstonePort.basic.name=원자로 레드스톤 포트 (사용 전)
+tile.bigreactors:reactorFuelRod.basic.name=원자로 연료봉 (사용 전)
+tile.bigreactors:reactorRedNetPort.basic.name=원자로 레드넷 포트 (사용 전)
+tile.bigreactors:reactorCreativeCoolantPort.basic.name=원자로 크리에이티브 냉각수 포트 (사용 전)
+
+# Blocks - turbine parts (legacy)
+tile.bigreactors:turbineGlass.legacy.name=터빈 유리 (사용 후)
+tile.bigreactors:turbineHousing.legacy.name=터빈 하우징 (사용 후)
+tile.bigreactors:turbineController.legacy.name=터빈 제어기 (사용 후)
+tile.bigreactors:turbinePowerTapRF.legacy.name=터빈 RF 전력 탭 (사용 후)
+tile.bigreactors:turbinePowerTapTesla.legacy.name=터빈 테슬라 전력 탭 (사용 후)
+tile.bigreactors:turbineComputerPort.legacy.name=터빈 컴퓨터 포트 (사용 후)
+tile.bigreactors:turbineFluidPort.legacy.name=터빈 액체 포트 (사용 후)
+tile.bigreactors:turbineBearing.legacy.name=터빈 로터 베어링 (사용 후)
+tile.bigreactors:turbineCreativeSteamGenerator.legacy.name=터빈 크리에이티브 증기 발전기 (사용 후)
+tile.bigreactors:turbineRotorShaft.legacy.name=터빈 로터 축 (사용 후)
+tile.bigreactors:turbineRotorBlade.legacy.name=터빈 로터 날개 (사용 후)
+
+# Blocks - turbine parts (basic)
+tile.bigreactors:turbineGlass.basic.name=터빈 유리 (사용 전)
+tile.bigreactors:turbineHousing.basic.name=터빈 하우징 (사용 전)
+tile.bigreactors:turbineController.basic.name=터빈 제어기 (사용 전)
+tile.bigreactors:turbinePowerTapRF.basic.name=터빈 RF 전력 탭 (사용 전)
+tile.bigreactors:turbinePowerTapTesla.basic.name=터빈 테슬라 전력 탭 (사용 전)
+tile.bigreactors:turbineComputerPort.basic.name=터빈 컴퓨터 포트 (사용 전)
+tile.bigreactors:turbineFluidPort.basic.name=터빈 액체 포트 (사용 전)
+tile.bigreactors:turbineBearing.basic.name=터빈 로터 베어링 (사용 전)
+tile.bigreactors:turbineCreativeSteamGenerator.basic.name=터빈 크리에이티브 증기 발전기 (사용 전)
+tile.bigreactors:turbineRotorShaft.basic.name=터빈 로터 축 (사용 전)
+tile.bigreactors:turbineRotorBlade.basic.name=터빈 로터 날개 (사용 전)
+
+# Error messages
+multiblock.validation.block_not_connected=블록이 원자로에 연결되어 있지 않습니다. 지연이나 버그 때문일 수 있습니다. 문제가 지속되면, 블록을 분해한 후 다시 정렬해 보세요.
+
+# Multiblock validation errors (reactors)
+multiblock.validation.reactor.invalid_fuelrod_position=%1$d, %2$d, %3$d - 연료봉은 원자로실에만 위치할 수 있습니다.
+multiblock.validation.reactor.invalid_fuelrod_column=%1$d, %2$d, %3$d에 있는 연료봉은 제어봉이 상단에 있는 상태에서 원자로의 전체 높이에 도달하는 수직 기둥의 일부여야 합니다.
+multiblock.validation.reactor.invalid_part_for_interior=%1$d, %2$d, %3$d - 이 원자로 부품은 원자로 내부에 배치할 수 없습니다.
+multiblock.validation.reactor.invalid_fluid_for_interior=%1$d, %2$d, %3$d - %4$s 액체가 원자로 내부에 유효하지 않습니다.
+multiblock.validation.reactor.invalid_block_for_interior=%1$d, %2$d, %3$d - %4$s은(는) 원자로 내부에 유효하지 않습니다.
+multiblock.validation.reactor.invalid_block_for_exterior=%1$d, %2$d, %3$d - %4$s은(는) 원자로 내부에 유효하지 않습니다.
+multiblock.validation.reactor.null_block_found=%1$d, %2$d, %3$d - Null 블록을 찾았습니다. 원자로 내부에 유효하지 않습니다.
+multiblock.validation.reactor.too_few_rods=제어봉이 충분하지 않습니다. 원자로는 1개 이상 필요합니다.
+multiblock.validation.reactor.too_few_controllers=제어기가 부족합니다. 원자로는 1개 이상 필요합니다.
+multiblock.validation.reactor.invalid_control_rods_position=%1$d, %2$d, %3$d - 제어봉은 연료봉 시퀀스의 끝에만 배치할 수 있습니다.
+multiblock.validation.reactor.invalid_control_rods_column=%1$d, %2$d, %3$d - 제어봉은 연료봉 시퀀스의 끝에만 배치할 수 있습니다.
+multiblock.validation.reactor.invalid_control_side=제어봉은 원자로의 한쪽에만 배치할 수 있습니다.
+multiblock.validation.reactor.invalid_glass_position=%1$d, %2$d, %3$d - 원자로 유리는 원자로 프레임이나 내부가 아닌 외부 면에만 사용할 수 있습니다.
+multiblock.validation.reactor.invalid_frame_block=%1$d, %2$d, %3$d - 케이스만 원자로 프레임의 일부로 사용할 수 있습니다.
+multiblock.validation.reactor.invalid_block_in_fuel_assembly=%1$d, %2$d, %3$d - 여기서는 연료봉만 사용할 수 있습니다.
+multiblock.validation.reactor.invalid_base_for_fuel_assembly=%1$d, %2$d, %3$d - 여기서는 원자로 케이스만 사용할 수 있습니다.
+multiblock.validation.reactor.invalid_fuel_rods=모든 연료봉은 제어봉 뒤의 연료 어셈블리에 속해야 합니다.
+multiblock.validation.reactor.redstoneport_invalid_on_frame=%1$d, %2$d, %3$d - 레드스톤 포트는 프레임의 일부가 아닌 원자로의 외부 측면에만 배치할 수 있습니다.
+multiblock.validation.reactor.redstoneport_invalid_on_top=%1$d, %2$d, %3$d - 레드스톤 포트는 상단이 아닌 원자로의 외부 측면에만 설치할 수 있습니다.
+multiblock.validation.reactor.redstoneport_invalid_on_bottom=%1$d, %2$d, %3$d - 레드스톤 포트는 하단이 아닌 원자로의 외부 측면에만 설치할 수 있습니다.
+multiblock.validation.reactor.redstoneport_invalid_on_interior=%1$d, %2$d, %3$d - 레드스톤 포트는 원자로 내부에 배치할 수 없습니다.
+multiblock.validation.reactor.mixed_power_systems=RF 및 테슬라 전력 탭은 동일한 원자로에서 사용할 수 없습니다.
+multiblock.validation.reactor.mixed_tiers=원자로의 모든 블록은 동일한 티어이어야 합니다.
+
+# Multiblock validation errors (turbines)
+multiblock.validation.turbine.incomplete=터빈이 아직 완전하지 않습니다.
+multiblock.validation.turbine.invalid_block_for_interior=%1$d, %2$d, %3$d가 터빈 내부에 적합하지 않습니다. 로터 부품, 금속 블록 및 빈 공간만 허용됩니다.
+multiblock.validation.turbine.invalid_block_for_exterior=%1$d, %2$d, %3$d - %4$s은(는) 터빈 외부용으로 유효하지 않습니다.
+multiblock.validation.turbine.invalid_rotor_count=터빈에는 정확히 1개의 로터 베어링이 필요합니다.
+multiblock.validation.turbine.block_must_be_rotor=%1$s - 이 블록에는 로터가 있어야 합니다. 로터는 베어링에서, 그리고 터빈의 전체 길이를 달려야 합니다.
+multiblock.validation.turbine.blades_too_far=%1$s - 로터 날개는 터빈 내부의 다른 모든 부품보다 로터 베어링에 더 가깝게 배치해야 합니다.
+multiblock.validation.turbine.metal_too_near=%1$s - 금속 블록은 모든 로터 블레이드보다 로터 베어링으로부터 더 멀리 떨어져 있어야 합니다.
+multiblock.validation.turbine.shaft_too_short=로터 축은 터빈 내부의 전체 길이를 연장해야 합니다.
+multiblock.validation.turbine.found_loose_rotor_blocks=주 로터에 연결되지 않은 %1$d 로터 블록을 찾았습니다. 모든 로터 블록은 베어링으로부터 시작하여 터빈의 전체 길이를 연장하는 기둥에 있어야 합니다.
+multiblock.validation.turbine.found_loose_rotor_blades=로터에 연결되지 않은 %1$d 로터 날개를 찾았습니다. 모든 로터 날개는 로터 축에서 연속적으로 확장되어야 합니다.
+multiblock.validation.turbine.invalid_metals_shape=로터 주위의 고리에 있지 않은 %1$d 금속 블록을 찾았습니다. 모든 금속 블록은 로터 주위의 고리 또는 부분 고리에 있어야 합니다.
+multiblock.validation.turbine.glass_invalid_on_frame=%1$d, %2$d, %3$d - 유리는 터빈 프레임의 일부로 사용할 수 없습니다.
+multiblock.validation.turbine.glass_invalid_on_interior=%1$d, %2$d, %3$d - 유리는 터빈 외관의 일부로만 사용할 수 있습니다.
+multiblock.validation.turbine.invalid_part_for_interior=%1$d, %2$d, %3$d - 이 부품은 터빈 내부에 적합하지 않습니다.
+multiblock.validation.turbine.invalid_part_for_frame=%1$d, %2$d, %3$d - 터빈 프레임의 일부로 터빈 하우징만 사용할 수 있습니다.
+multiblock.validation.turbine.invalid_rotor_position=로터 부품은 터빈 내부에만 장착할 수 있습니다.
+multiblock.validation.turbine.invalid_rotor_end=로터가 터빈 하우징 블록에 닿아야 합니다.
+multiblock.validation.turbine.mixed_power_systems=RF 및 테슬라 전력 탭은 동일한 터빈에서 사용할 수 없습니다.
+multiblock.validation.turbine.mixed_tiers=터빈의 모든 블록은 동일한 티어이어야 합니다.
+
+# Configs
+config.bigreactors.compatibility=호환성
+config.bigreactors.general=일반
+config.bigreactors.reactor=원자로
+config.bigreactors.turbine=터빈
+config.bigreactors.recipes=조합법
+config.bigreactors.worldgen=세계 생성
+
+config.bigreactors.compatibility.autoAddUranium=원자로 반응제로 우라늄을 추가합니다.
+config.bigreactors.compatibility.enableMetallurgyFantasyMetalsInTurbines=터빈에서 메탈러지 환상 금속을 사용합니다.
+
+config.bigreactors.general.enableComedy=코미디
+config.bigreactors.general.fuelUsageMultiplier=연료 사용 승수
+config.bigreactors.general.powerProductionMultiplier=전력 생산 승수
+config.bigreactors.general.registerCreativeMultiblockParts=크리에이티브 부품 등록
+config.bigreactors.general.ticksPerRedstoneUpdate=레드스톤 업데이트당 틱 수
+
+config.bigreactors.reactor.maxReactorHeight=최대 높이 (Y)
+config.bigreactors.reactor.maxReactorSize=최대 규모 (X/Z)
+config.bigreactors.reactor.reactorPowerProductionMultiplier=전력 생산 승수
+
+config.bigreactors.turbine.maxTurbineHeight=최대 높이 (Y)
+config.bigreactors.turbine.maxTurbineSize=최대 규모 (X/Z)
+config.bigreactors.turbine.turbineAeroDragMultiplier=에어로 항력 승수
+config.bigreactors.turbine.turbineCoilDragMultiplier=코일 항력 승수
+config.bigreactors.turbine.turbineFluidPerBladeMultiplier=날개 승수당 액체
+config.bigreactors.turbine.turbineMassDragMultiplier=질량 드래그 승수
+config.bigreactors.turbine.turbinePowerProductionMultiplier=전력 생산 승수
+
+config.bigreactors.recipes.enableCyaniteFromYelloriumRecipe=옐로리움으로 남정석 제작
+config.bigreactors.recipes.enableReactorPowerTapRecipe=원자로 전력 탭 허용
+config.bigreactors.recipes.registerCharcoalForSmelting=목탄을 흑연으로 제련
+config.bigreactors.recipes.registerCoalForSmelting=석탄을 흑연으로 제련
+config.bigreactors.recipes.registerGraphiteCharcoalCraftingRecipes=목탄과 자갈로 흑연 제작
+config.bigreactors.recipes.registerGraphiteCoalCraftingRecipes=석탄과 자갈로 흑연 제작
+config.bigreactors.recipes.registerYelloriteSmeltToUranium=옐로라이트 광석을 우라늄괴로 제련
+config.bigreactors.recipes.registerYelloriumAsUranium=옐로리움/블루토늄을 우라늄/플루토늄으로 대체 사용
+config.bigreactors.recipes.requireObsidianGlass=강화 유리 사용
+config.bigreactors.recipes.requireSteelInsteadOfIron=철괴 대신에 강철 사용 [미사용]
+config.bigreactors.recipes.registerCreativeMultiblockParts=크리에이티브 부품 등록
+
+config.bigreactors.worldgen.enableWorldGen=세계 생성 활성화
+config.bigreactors.worldgen.enableWorldRegeneration=기존 청크 다시 생성
+config.bigreactors.worldgen.userWorldGenVersion=사용자 설정 세계 생성 버전
+config.bigreactors.worldgen.dimensionWhitelist=옐로라이트 발전을 위해 차원 (ID) 허용
+config.bigreactors.worldgen.yelloriteOreEnableWorldGen=옐로라이트 광석 발전
+config.bigreactors.worldgen.yelloriteOreMaxClustersPerChunk=청크당 최대 옐로라이트 클러스터 수
+config.bigreactors.worldgen.yelloriteOrePerCluster=클러스터당 최대 옐로라이트 광석 수
+config.bigreactors.worldgen.yelloriteOreMaxY=옐로라이트 광석 최대 높이
+config.bigreactors.worldgen.anglesiteOreEnableWorldGen=앵글사이트 광석 발전
+config.bigreactors.worldgen.anglesiteOreMaxClustersPerChunk=청크당 최대 앵글사이트 클러스터 수
+config.bigreactors.worldgen.anglesiteOrePerCluster=클러스터당 최대 앵글사이트 광석 수
+config.bigreactors.worldgen.benitoiteOreEnableWorldGen=베니토이트 광석 발전
+config.bigreactors.worldgen.benitoiteOreMaxClustersPerChunk=청크당 최대 베니토이트 클러스터 수
+config.bigreactors.worldgen.benitoiteOrePerCluster=클러스터당 최대 베니토이트 광석 수
+
+# Debug-tools messages
+debug.bigreactors.lastvalidationerror=마지막 유효성 검사 오류: %1$s
+debug.bigreactors.teclass=타일 엔티티 클래스: %1$s
+debug.bigreactors.notattached=부품이 제어기에 연결되지 않음
+debug.bigreactors.assembled=조립: %1$s
+debug.bigreactors.attached=부착된 블록: %1$s
+debug.bigreactors.active=활성화: %1$s
+debug.bigreactors.storedenergy=저장된 에너지: %1$.4f %2$s
+debug.bigreactors.reactor.casingheat=케이스 열: %1$.4f
+debug.bigreactors.reactor.fuelheat=연료 열: %1$.4f
+debug.bigreactors.reactor.reactanttanksIntro=반응 탱크:
+debug.bigreactors.reactor.activelycooled=냉각 활성화: %1$s
+debug.bigreactors.reactor.coolanttanksIntro:=냉각 탱크:
+debug.bigreactors.reactantcontainer.capacity=용량: %1$d mB
+debug.bigreactors.reactantcontainer.tank=[%1$s] %2$s: %3$d
+debug.bigreactors.fluidhelper.capacity=용량 (시간당): %1$d mB
+debug.bigreactors.fluidhelper.tank=[%1$s] %2$s: %3$s, %4$d mB
+debug.bigreactors.turbine.rotorenergy=로터 에너지: %1$.4f
+debug.bigreactors.turbine.rotorspeed=로터 속도: %1$.4f RPM
+debug.bigreactors.turbine.inductorengaged=인덕터 작동: %1$s
+debug.bigreactors.turbine.ventstatus=환기 상태: %1$s
+debug.bigreactors.turbine.maxintakerate=최대 흡입 속도: %1$d
+debug.bigreactors.turbine.coilsize=코일 규모: %1$d
+debug.bigreactors.turbine.rotormass=로터 질량: %1$d
+debug.bigreactors.turbine.bladearea=날개 표면 구역: %1$d
+debug.bigreactors.turbine.rotorblades=로터 날개: %1$d
+debug.bigreactors.turbine.rotorshafts=로터 축: %1$d
+debug.bigreactors.turbine.rotordragcoeff=로터 항력 계수: %1$.2f
+debug.bigreactors.turbine.bladedrag=날개 항력: %1$.2f
+debug.bigreactors.turbine.frictdrag=프라이트 항력: %1$.2f
+debug.bigreactors.turbine.fluidtanksInfo=액체 탱크:
+debug.bigreactors.turbine.inputempty=- 입력 : 비어있음
+debug.bigreactors.turbine.input=- 입력 : %1$s %2$d mB
+debug.bigreactors.turbine.outputempty=- 출력 : 비어있음
+debug.bigreactors.turbine.output=- Outlet : %1$s %2$d mB
